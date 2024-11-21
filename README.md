@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Heriberto Carreras</h1>
 <h3 align="center">Software Engineer Student</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hcarreras2&label=Profile%20views&color=0e75b6&style=flat" alt="hcarreras2" /> </p>
-
 - 🔭 I’m currently working on **Holberton School projects**
 
 - 🌱 I’m currently learning **Python, Javascript, SQL and Web Dev Technologies.**
